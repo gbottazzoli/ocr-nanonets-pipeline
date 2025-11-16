@@ -12,6 +12,66 @@ Pipeline OCR professionnel pour extraire le texte de documents PDF historiques u
 - **Format Markdown** - Sortie texte portable et éditable
 - **Gestion mémoire** - Traitement page par page optimisé
 
+## Exemple de résultat
+
+### Document original → Texte extrait
+
+<table>
+<tr>
+<td width="50%">
+
+**📄 INPUT : PDF scanné**
+
+Document historique de la Société des Nations (1922)
+- Texte manuscrit et imprimé
+- Qualité variable
+- Format PDF ancien
+
+</td>
+<td width="50%">
+
+**✨ OUTPUT : Texte Markdown**
+
+```markdown
+Page 1
+
+1922
+SOCIÉTÉ DES NATIONS.
+LEAGUE OF NATIONS.
+
+Classement. INTERNATIONAL BUREAUX. RIO48 REGISTRY.
+
+Classement Document
+No.        No.
+13.c       23516
+
+INTELLECTUAL CO-OPERATION
+
+Expéditeur.
+3rd Assembly
+of the
+League.
+
+Date.
+21 September
+1922.
+
+Sujet.
+Seperanto as an Auxiliary International Language
+Report submitted by the 5th Committee
+to the 3rd Assembly, & Resolutions
+adopted by the Assembly, 21 September
+1922.
+A. 81.
+A. 109. (Resolution 9)
+```
+
+</td>
+</tr>
+</table>
+
+**Résultat** : Texte structuré, recherchable et éditable préservant la mise en page originale.
+
 ## Structure du projet
 
 ```
