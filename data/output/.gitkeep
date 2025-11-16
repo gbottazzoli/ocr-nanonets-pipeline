@@ -1,0 +1,2 @@
+# Ce fichier permet de conserver le dossier data/output/ dans Git
+# Les résultats OCR seront générés dans data/output/ocr_results/
